@@ -1,5 +1,5 @@
 # PhD-and-Article
-my book before PhD and all article that I plublished before my PhD
+My book before PhD and all article that I plublished before my PhD
 
 
 * E. M. Randrianandrasana, S. R. Rakotondramanana, P. A. Randriamitantsoa, A. A. Randriamitantsoa, «Optimization methods for interference reduction between MIMO Radar and system of cellular communication », IJARIIE , vol.4, 2018
